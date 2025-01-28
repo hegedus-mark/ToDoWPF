@@ -20,4 +20,9 @@ public partial class MainWindow : Window
     {
         InitializeComponent();
     }
+
+    void button_click(object sender, RoutedEventArgs e)
+    {
+        MessageBox.Show("Hello there!");
+    }
 }

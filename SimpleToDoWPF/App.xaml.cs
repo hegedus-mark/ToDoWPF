@@ -10,4 +10,3 @@ namespace SimpleToDoWPF;
 public partial class App : Application
 {
 }
-
